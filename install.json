@@ -1,0 +1,33 @@
+{
+    "mods": [
+        {
+            "name": "The Bumblezone",
+            "project_id": "eA8SXqWL",
+            "version_id": "EpcoIvzm"
+        },
+        {
+            "name": "Midnightlib",
+            "project_id": "codAaoxh",
+            "version_id": "HVILSMf5"
+        },
+        {
+            "name": "Resourcefullib",
+            "project_id": "G1hIVOrD",
+            "version_id": "agK8ADLZ"
+        },
+        {
+            "name": "Dehydration",
+            "project_id": "qWDh3G0p",
+            "version_id": "XLaPPlG2"
+        },
+        {
+            "name": "Cloth Config API",
+            "project_id": "9s6osm5g",
+            "version_id": "Yc8omJNb"
+        }
+    ],
+    "target": {
+        "module": "fabric",
+        "version": "1.21"
+    }
+}
